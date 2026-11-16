@@ -1,0 +1,5 @@
+benchmark,reported_r,note,source_location
+Small,0.1,Correlation-size benchmark; NOT Cohen d,"Gignac & Szodorai 2016, abstract / effect-size guidelines"
+Typical,0.2,Correlation-size benchmark; NOT Cohen d,"Gignac & Szodorai 2016, abstract / effect-size guidelines"
+Relatively large,0.3,Correlation-size benchmark; NOT Cohen d,"Gignac & Szodorai 2016, abstract / effect-size guidelines"
+Uncommon correlation,0.5,Less than 3% of analyzed correlations were this large,"Gignac & Szodorai 2016, findings"

@@ -1,0 +1,45 @@
+Age-gap relationships — reconstruction from published aggregate statistics
+=======================================================================
+Source: Alexander (2023) and (2024) unless otherwise noted.
+These are not recomputations from the original participant-level data.
+
+2023 sex differences (men minus women; pooled-SD Cohen d):
+  Age-gap approval: d = 0.68561; reported text d = 0.47; Welch t ~= 5.437; df ~= 165.96; p ~= 1.906058e-07 (approximate because published means and SDs are rounded)
+  Hierarchical approval: d = 0.47123; reported text d = 0.68; Welch t ~= 3.828; df ~= 174.16; p ~= 0.0001800136 (approximate because published means and SDs are rounded)
+
+Gignac & Szodorai (2016) r benchmarks (not Cohen d):
+  Small: r=0.10; conversion to d (equal-size two-group approximation)=0.201.
+  Typical: r=0.20; conversion to d (equal-size two-group approximation)=0.408.
+  Relatively large: r=0.30; conversion to d (equal-size two-group approximation)=0.629.
+  Uncommon correlation: r=0.50; conversion to d (equal-size two-group approximation)=1.155.
+  These benchmark correlations are not d; conversion is illustrative, not a claim of equivalent study designs.
+
+Arithmetic of political ANOVA:
+  F(2,343) = 0.952 => partial eta^2 = 0.005520 (article reports 0.0287).
+
+Bayes factor, standard notation:
+  If BF01 = 0.0228, BF10 = 1 / BF01 = 43.8596, i.e. favors alternative.
+  If author meant BF10 = 0.0228, interpretation favoring null would instead have that direction.
+  This is a label/interpretation discrepancy, not an independently estimated Bayes factor.
+
+Reported professor-relationship prevalence:
+  Reconstructed integers from sex-specific rates: 10 men + 1 woman = 11 / 346 = 3.1792%.
+  Article overall estimate = 3.4%; missing outcome responses/different denominator not known.
+
+2024 age–approval correlations (published CIs; transcribed, NOT recomputed):
+  Men: n=452 (inferred as 655 minus 203), r=+0.25, 95% CI [+0.16, +0.33]
+  Women: n=203 (reported), r=+0.03, 95% CI [-0.11, +0.16]
+
+Matched nominal-gap vignette means (source-reported):
+  5-year gap: 25/30 -> 6.0; 35/40 -> 6.3; difference=+0.30 points.
+  10-year gap: 20/30 -> 4.32; 30/40 -> 5.92; difference=+1.60 points.
+
+Student-professor initiation counts (transcribed):
+  Bellas & Gossett (2001): professor alone=6, student alone=6, mutually initiated=8
+  Skeen & Nielsen (1983): professor alone=3, student alone=7, mutually initiated=15
+
+Analysis limitations:
+  No raw microdata; no unobserved standard errors, within-person correlations, or CIs invented.
+  No original regression, Bayesian ANOVA, or vignette paired t-test reanalysis is claimed.
+  All Glaser 1986 values are retrospective perceptions recalled in one survey.
+  Figures use source-reported age-gap vignette means and historical counts.

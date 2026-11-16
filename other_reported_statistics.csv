@@ -1,0 +1,7 @@
+item,reported_value,df1,df2,extra,source_location
+Political ANOVA F,0.952,2,343,reported partial eta-squared 0.0287,"Alexander 2023, political ideology section"
+Reported partial eta-squared,0.0287,,,inconsistent with reported F and dfs,"Alexander 2023, political ideology section"
+Bayes factor labeled BF01,0.0228,,,article interprets as 43.79:1 in favor of null,"Alexander 2023, political ideology section"
+"Reported prevalence professor relationship, percent",3.4,,,sex-specific rates imply 11 of 346 = 3.179%,"Alexander 2023, descriptive statistics"
+"Men reported professor relationship, percent",4.12,,,"n=243, approximately 10 events","Alexander 2023, descriptive statistics"
+"Women reported professor relationship, percent",0.97,,,"n=103, approximately 1 event","Alexander 2023, descriptive statistics"

@@ -1,0 +1,5 @@
+outcome,group,n,mean,sd,article_reported_d,source_location
+Age-gap approval,Men,243,31.79,7.06,0.47,"Alexander 2023, Table 2 and sex differences text"
+Age-gap approval,Women,103,26.66,8.4,0.47,"Alexander 2023, Table 2 and sex differences text"
+Hierarchical approval,Men,243,18.84,5.32,0.68,"Alexander 2023, Table 2 and sex differences text"
+Hierarchical approval,Women,103,16.24,5.96,0.68,"Alexander 2023, Table 2 and sex differences text"

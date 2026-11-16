@@ -1,0 +1,3 @@
+group,n,n_status,r,ci_lower,ci_upper,outcome,source_location
+Men,452,inferred as 655 minus 203,0.25,0.16,0.33,Age x total age-gap approval,"Alexander 2024, Hypothesis 1"
+Women,203,reported,0.03,-0.11,0.16,Age x total age-gap approval,"Alexander 2024, Hypothesis 1"
